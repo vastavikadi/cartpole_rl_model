@@ -1,0 +1,1 @@
+- This is a reinforcement learning model for a simple environment. The model is trained for cartpole balancing.
